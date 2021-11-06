@@ -1,0 +1,26 @@
+[
+    {
+      "guest": [
+        {
+          "type": "ADT"
+        },
+        {
+          "type": "ADT"
+        },
+        {
+          "type": "CHD",
+          "age": 3
+        }
+      ]
+    },
+    {
+      "guest": [
+        {
+          "type": "ADT"
+        },
+        {
+          "type": "ADT"
+        }
+      ]
+    }
+  ]
